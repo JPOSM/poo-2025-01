@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Conversoes
+comment1.params=kg
+comment1.target=double\ kg_para_ton(double)
+comment2.params=toneladas
+comment2.target=double\ massa_met(double)
+comment3.params=toneladas
+comment3.target=double\ mol_met(double)
+comment4.params=toneladas
+comment4.target=double\ energia_met(double)
+numComments=5
