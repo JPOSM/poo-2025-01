@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=EficienciaBiometano
-comment1.params=
-comment1.target=double\ densidade_bio()
-comment2.params=
-comment2.target=double\ massa_met()
-comment3.params=
-comment3.target=double\ velocidade_queima()
-numComments=4
